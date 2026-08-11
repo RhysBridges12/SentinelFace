@@ -1,0 +1,8 @@
+PySide6
+argon2-cffi
+opencv-python
+faiss-cpu
+insightface
+numpy
+onnxruntime
+sqlcipher3
